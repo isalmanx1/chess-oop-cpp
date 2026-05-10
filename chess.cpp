@@ -3,6 +3,7 @@
 
 //pawn moves forward 1 step, or 2 steps from starting row
 //it only moves in one direction based on its color
+//pawn move validation implemented by ayyan
 bool pawn::isValidMove(position start, position end) {
     int direction = isWhite ? -1 : 1; //white goes up (row decreases), black goes down
     int rowDiff = end.row - start.row;
