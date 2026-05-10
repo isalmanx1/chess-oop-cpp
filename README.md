@@ -4,7 +4,7 @@
 
 | Name | GitHub Username | Role |
 |------|----------------|------|
-| Ayyan Ahmad | @ayyan_username | piece abstract class, Pawn, Queen, King, Board class, main game loop |
+| Ayyan Ahmad | @Ayyan-Ahmad235 | piece abstract class, Pawn, Queen, King, Board class, main game loop |
 | Salman Zulfiqar | @isalmanx1 | Knight, Bishop, Rook, Board initialization, move validation, turn switching, symbols |
 
 ## Project Description
